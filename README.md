@@ -1,2 +1,2 @@
 # conayERP
-Sistema ERP para controle de estoque
+Sistema ERP para controle de estoques
